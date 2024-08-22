@@ -1,8 +1,9 @@
-mod two_sum;
-mod count_number_of_teams;
-mod uncommon_words_between_sentences;
-mod lemonade_change;
 mod bloom_filter;
+mod count_number_of_teams;
+mod lemonade_change;
+mod number_complement;
+mod two_sum;
+mod uncommon_words_between_sentences;
 
 fn main() {
     println!("Hello, world!");
